@@ -1,0 +1,68 @@
+Selenium Hybrid Framework
+(Python, Selenium, PyTest, Page Object Model, HTML Reports)
+
+
+What is a framework?
+--------------------------
+An organized way of maintaning automation files.
+In the framework all the files will communicate to each other and perform tasks.
+
+Objective/Goal:
+1) Re-usability
+2) Maintainability
+
+Types of frameworks
+--------------------------
+1) Built-in frameworks
+	pytest, robotframework, unittest
+2) Customized/User defined frameworks
+	Datadriven framework, Keyword driven framework, Hybrid driven framework
+	
+Phases
+--------------------------
+1) Analyze application, technology & skill set of team, choose test cases
+
+100 TC's...
+
+Re-test cases(test data)
+Regression cases
+TC's can be automatable
+
+100% automation??? automate all of the TC that can be automated
+
+2) Design & implementation of framework
+
+3) Execution
+
+4) Maintanance(Version control system)
+ 
+ 
+Application
+--------------------------
+eCommerce Application
+
+
+Frontent: https://frontend.nopcommerce.com/
+Backend: https://admin-demo.nopcommerce.com/
+
+We will automate Backend
+
+
+Test Cases
+--------------------------
+We will test Customers -> Customers module
+
+Login
+Customers
+	Add new customer
+	Search customers
+		Search customer by Email
+		Search customer by Firstname
+		Search customer by Lastname
+	Export customers
+		Export selected customers to XML
+		Export all customers to XML
+		Export selected customers to Excel
+		Export all customers to Excel
+	Edit Customer details
+	Delete Customer
