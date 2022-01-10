@@ -1,32 +1,28 @@
-01062021 02:52:20 PM: INFO: ***** Test_003_AddCustomer *****
-01062021 02:52:30 PM: INFO: ***** Login successful *****
-01062021 02:52:30 PM: INFO: ***** Starting Add Customer Test *****
-01062021 02:52:32 PM: INFO: ***** Providing customer info *****
-01062021 02:52:37 PM: INFO: ***** Saving customer info *****
-01062021 02:52:37 PM: INFO: ***** Add customer validation started *****
-01062021 02:52:37 PM: INFO: ***** Add customer Test Passed *****
-01062021 02:52:37 PM: INFO: ***** Ending Add customer test *****
-01062021 02:52:40 PM: INFO: ***** Test_001_Login *****
-01062021 02:52:40 PM: INFO: ***** Verifying Home Page Title *****
-01062021 02:52:44 PM: INFO: ***** Home Page Title Passed *****
-01062021 02:52:47 PM: INFO: ***** Test_002_Login *****
-01062021 02:52:47 PM: INFO: ***** Verifying Login *****
-01062021 02:52:52 PM: INFO: ***** Login Passed *****
-01062021 02:52:55 PM: INFO: ***** Test_002_DTT_Login *****
-01062021 02:52:55 PM: INFO: ***** Verifying Login DTT *****
-01062021 02:53:07 PM: INFO: ***** Test Passed *****
-01062021 02:53:13 PM: INFO: ***** Test Passed *****
-01062021 02:53:19 PM: INFO: ***** Test Passed *****
-01062021 02:53:24 PM: INFO: ***** Test Passed *****
-01062021 02:53:24 PM: INFO: ***** Login DTT Passed *****
-01062021 02:53:24 PM: INFO: ***** End of Login DTT Test *****
-01062021 02:53:27 PM: INFO: ***** SearchCustomerByEmail_004 *****
-01062021 02:53:32 PM: INFO: ***** Login successful *****
-01062021 02:53:32 PM: INFO: ***** Starting Search Customer By Email *****
-01062021 02:53:34 PM: INFO: ***** Searching customer by emailID *****
-01062021 02:53:39 PM: INFO: *****  TC_SearchCustomerByEmail_004 Finished  *****
-01062021 02:53:42 PM: INFO: ***** SearchCustomerByName_005 *****
-01062021 02:53:51 PM: INFO: ***** Login successful *****
-01062021 02:53:51 PM: INFO: ***** Starting Search Customer By Name *****
-01062021 02:53:53 PM: INFO: ***** searching customer by name *****
-01062021 02:53:58 PM: INFO: *****  TC_SearchCustomerByName_005 Finished  *****
+02202021 10:35:41 AM: INFO: ***** Test_001_Login *****
+02202021 10:35:41 AM: INFO: ***** Verifying Home Page Title *****
+02202021 10:35:49 AM: INFO: ***** Home Page Title Passed *****
+02202021 10:35:50 AM: INFO: ***** Test_002_Login *****
+02202021 10:35:50 AM: INFO: ***** Verifying Login *****
+02202021 10:36:00 AM: INFO: ***** Login Passed *****
+02202021 10:36:01 AM: INFO: ***** SearchCustomerByEmail_004 *****
+02202021 10:36:07 AM: INFO: ***** Login successful *****
+02202021 10:36:07 AM: INFO: ***** Starting Search Customer By Email *****
+02202021 10:36:09 AM: INFO: ***** Searching customer by emailID *****
+02202021 10:36:15 AM: INFO: *****  TC_SearchCustomerByEmail_004 Finished  *****
+02202021 10:36:15 AM: INFO: ***** SearchCustomerByName_005 *****
+02202021 10:36:23 AM: INFO: ***** Login successful *****
+02202021 10:36:23 AM: INFO: ***** Starting Search Customer By Name *****
+02202021 10:36:25 AM: INFO: ***** searching customer by name *****
+02202021 10:36:31 AM: INFO: *****  TC_SearchCustomerByName_005 Finished  *****
+02202021 10:36:31 AM: INFO: ***** Test_003_AddCustomer *****
+02202021 10:36:36 AM: INFO: ***** Login successful *****
+02202021 10:36:36 AM: INFO: ***** Starting Add Customer Test *****
+02202021 10:36:39 AM: INFO: ***** Providing customer info *****
+02202021 10:36:40 AM: INFO: ***** Test_002_DTT_Login *****
+02202021 10:36:40 AM: INFO: ***** Verifying Login DTT *****
+02202021 10:36:50 AM: INFO: ***** Test Passed *****
+02202021 10:36:56 AM: INFO: ***** Test Passed *****
+02202021 10:37:02 AM: INFO: ***** Test Passed *****
+02202021 10:37:07 AM: INFO: ***** Test Passed *****
+02202021 10:37:07 AM: INFO: ***** Login DTT Passed *****
+02202021 10:37:07 AM: INFO: ***** End of Login DTT Test *****

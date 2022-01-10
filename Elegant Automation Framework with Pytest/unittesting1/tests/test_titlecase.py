@@ -1,4 +1,4 @@
-from titlecase import title_case
+from ..titlecase.titlecase import title_case
 
 class TitleCaseTests:
     def test_lower_text_is_uppercased_correctly(self):
